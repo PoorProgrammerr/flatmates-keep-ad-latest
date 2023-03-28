@@ -16,7 +16,7 @@ Our script uses automation to deactivate and re-activate your flatmate ad at reg
 # Disclaimer ❗️
 
 Please note that overusing this script may violate flatmates.com.au's terms of service. Use this script at your own risk and responsibility.
-Contributing 🤝
+# Contributing 🤝
 
 We welcome contributions from the community! If you have any suggestions or improvements, feel free to open an issue or pull request.
 # License 🔖
