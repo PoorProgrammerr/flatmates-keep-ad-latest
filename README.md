@@ -3,7 +3,7 @@
 Are you tired of paying for a subscription to keep your flatmate ad on top on flatmates.com.au? Look no further! Our Tampermonkey script ensures your ad is always the first one to appear when other users search for a flatmate, without spending a single dollar.
 #How it Works 🤖
 
-Our script uses automation to refresh your flatmate ad at regular intervals, ensuring that it always appears at the top of the search results. This increases the visibility of your ad, making it more likely for potential roommates to find and contact you.
+Our script uses automation to deactivate and re-activate your flatmate ad at regular intervals, ensuring that it always appears at the top of the search results. This increases the visibility of your ad, making it more likely for potential roommates to find and contact you.
 # How to Use 📝
 
     Install the Tampermonkey browser extension (available for Chrome, Firefox, Edge, and more).
